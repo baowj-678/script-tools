@@ -1,0 +1,6 @@
+mail_host: "smtp.163.com"
+mail_user: "user@163.com"
+mail_pass: "password"
+mail_subject: "email-title"
+mail_content: "email-content"
+mail_receiver: "receiver@qq.com"

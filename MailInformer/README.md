@@ -32,7 +32,7 @@ set smtp-auth=login
 
 对于**163邮箱**，可以通过`设置->POP3/SMTP/IMAP->授权密码管理->新增授权密码`【注：网页登录的密码不可用】。
 
-![](.md\163-password)
+![](.md\163-password.png)
 
 
 
